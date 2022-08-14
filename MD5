@@ -1,0 +1,10 @@
+6d4fae2e7aced442a937af2e5b232a02 *DESCRIPTION
+587831ca22d03253bdb91c482b5015cb *NAMESPACE
+302a587e66a45789dfa6c43bd67f75af *R/createpb.R
+a83b7e32aa7200f7ee689e2929ace5a8 *R/methods.R
+cb7fb248ce07197b50e221768a92d3b3 *R/updatepb.R
+bef6826f1815f4eaa601f4e1fdf31716 *man/create_pb.Rd
+fe43cb5ff531a69316d5761dbb1464a3 *man/print-simple.progress.bar-method.Rd
+2702cc710badb4fe341e228169ce606e *man/simple.progress.bar.Rd
+670fa49b5129869fe8aed9f1aeed62e8 *man/summary-simple.progress.bar-method.Rd
+fffbc5dd7328a45682ef97cc156b3f78 *man/update_pb.Rd
